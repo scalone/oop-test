@@ -7,6 +7,14 @@ Last project test of Object-oriented programming class.
 - Clone or download this repo
 - Run `ant` to get the unit tests going
 
+## Responses
+1. Check classes and tests classes Activity, Curriculum, Event, Course, ActivityTest, CurriculumTest, EventTest and CourseTest.
+2. Uma interface pode definir métodos, porém não a implementação dos métodos, sendo assim, a interface é um contrato que a classe filho adota.
+3. Check classes and tests classes Champioship, Carioca, Paulista, Gaucho and ChampioshipTest.
+4. Check the test ChampioshipTest.
+5. Check classes and tests classes Human, HumanTest, Robot, RobotTest, Run, Sleep and Calculate.
+
+
 ## Contributing
 
 1. Fork it
